@@ -8,7 +8,7 @@ Explore US Bikeshare Data.
 Project is used to explore bikeshare data from Washington, New York City and Chicago and provide certain statistical information.
 
 ### Files used
-bikeshare.py, CSV files with city information (Washington, New York City and Chicago).
+bikeshare.py, csv files with city information (Washington, New York City and Chicago).
 
 ### Credits
 Udacity Python Programming course.
