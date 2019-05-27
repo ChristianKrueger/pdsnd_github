@@ -2,10 +2,10 @@
 Project created on April 29th 2019. Readme created on May 27th 2019.
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data.
 
 ### Description
-Describe what your project is about and what it does
+Project is used to explore bikeshare data from Washington, New York City and Chicago and provide certain statistical information.
 
 ### Files used
 Include the files used
