@@ -30,7 +30,7 @@ def get_filters():
 
     valid_months = ('all', 'january', 'february', 'march', 'april', 'may', 'june')
 
-    month = input("\nPlease enter the month you are interested in. It could be either January, February, March, April, May, June or all.\n").lower()
+    month = input("\nPlease enter the month you are interested in. It could be either January, February, March, April, May, June or all for the first half of the year.\n").lower()
 
     while month not in valid_months:
         month = input("\nInvalid entry! Please enter either January, February, March, April, May, June or all.\n").lower()
